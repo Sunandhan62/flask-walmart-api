@@ -4,7 +4,7 @@ backports.weakref==1.0.post1
 branca==0.8.0
 Cartopy==0.24.1
 cligj==0.7.2
-clyent==1.2.2
+clyent==1.2.1
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
 dmba==0.2.4
