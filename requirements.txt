@@ -1,7 +1,6 @@
+numpy==1.24.3 --only-binary=:all:
 Flask==2.2.3
 gunicorn==23.0.0
-numpy==1.23.5 # Older stable NumPy version
 pandas==1.3.3
 scikit-learn==1.0.2
 joblib==1.1.0
-numpy==1.23.5 --only-binary=numpy
